@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ccsds-community-prototyping.jpeg"
+  <img src="ccsds-community-prototyping-no-bg.png"
        alt="CCSDS Community Prototyping"
        width="350">
 </p>
