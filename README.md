@@ -30,9 +30,11 @@ testing are listed below.
 
 | CCSDS Standard / Protocol | Implementation | Language / Platform | Interoperability |
 |---|---|---|---|
-| LunaNet LSIS-AFS | **[LunaLink](https://github.com/luar-space/lunalink)** | C++20 / Python | ✅ Tested with independent implementations |
+| LunaNet LSIS-AFS* | **[LunaLink](https://github.com/luar-space/lunalink)** | C++20 / Python | ✅ Tested with independent implementations |
 | _CCSDS xxx.x_ | _https://github.com/_ | _Language_ | _Status_ |
 | _CCSDS xxx.x_ | _https://github.com/_ | _Language_ | _Status_ |
+
+*LSIS-AFS is a candidate protocol for a new CCSDS blue book.
 
 ### LunaLink
 
